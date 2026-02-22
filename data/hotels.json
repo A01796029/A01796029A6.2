@@ -1,0 +1,37 @@
+{
+  "a1b2c3d4-0001-4000-8000-100000000001": {
+    "hotel_id": "a1b2c3d4-0001-4000-8000-100000000001",
+    "name": "Grand Plaza Hotel",
+    "address": "100 5th Avenue, New York, NY 10001",
+    "total_rooms": 200,
+    "phone": "212-555-0100"
+  },
+  "a1b2c3d4-0002-4000-8000-100000000002": {
+    "hotel_id": "a1b2c3d4-0002-4000-8000-100000000002",
+    "name": "Sunset Beach Resort",
+    "address": "45 Ocean Drive, Miami, FL 33139",
+    "total_rooms": 150,
+    "phone": "305-555-0200"
+  },
+  "a1b2c3d4-0003-4000-8000-100000000003": {
+    "hotel_id": "a1b2c3d4-0003-4000-8000-100000000003",
+    "name": "Mountain View Lodge",
+    "address": "789 Alpine Road, Denver, CO 80202",
+    "total_rooms": 80,
+    "phone": "720-555-0300"
+  },
+  "a1b2c3d4-0004-4000-8000-100000000004": {
+    "hotel_id": "a1b2c3d4-0004-4000-8000-100000000004",
+    "name": "Downtown Business Inn",
+    "address": "22 Commerce Street, Chicago, IL 60601",
+    "total_rooms": 120,
+    "phone": "312-555-0400"
+  },
+  "a1b2c3d4-0005-4000-8000-100000000005": {
+    "hotel_id": "a1b2c3d4-0005-4000-8000-100000000005",
+    "name": "Pacific Crest Hotel",
+    "address": "500 Harbor Blvd, San Francisco, CA 94105",
+    "total_rooms": 95,
+    "phone": "415-555-0500"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "b2c3d4e5-0001-4000-8000-200000000001": {
+    "customer_id": "b2c3d4e5-0001-4000-8000-200000000001",
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "212-555-1001"
+  },
+  "b2c3d4e5-0002-4000-8000-200000000002": {
+    "customer_id": "b2c3d4e5-0002-4000-8000-200000000002",
+    "first_name": "Bob",
+    "last_name": "Martinez",
+    "email": "bob.martinez@example.com",
+    "phone": "305-555-1002"
+  },
+  "b2c3d4e5-0003-4000-8000-200000000003": {
+    "customer_id": "b2c3d4e5-0003-4000-8000-200000000003",
+    "first_name": "Carol",
+    "last_name": "Williams",
+    "email": "carol.williams@example.com",
+    "phone": "720-555-1003"
+  },
+  "b2c3d4e5-0004-4000-8000-200000000004": {
+    "customer_id": "b2c3d4e5-0004-4000-8000-200000000004",
+    "first_name": "David",
+    "last_name": "Chen",
+    "email": "david.chen@example.com",
+    "phone": "312-555-1004"
+  },
+  "b2c3d4e5-0005-4000-8000-200000000005": {
+    "customer_id": "b2c3d4e5-0005-4000-8000-200000000005",
+    "first_name": "Eva",
+    "last_name": "Thompson",
+    "email": "eva.thompson@example.com",
+    "phone": "415-555-1005"
+  },
+  "b2c3d4e5-0006-4000-8000-200000000006": {
+    "customer_id": "b2c3d4e5-0006-4000-8000-200000000006",
+    "first_name": "Frank",
+    "last_name": "Garcia",
+    "email": "frank.garcia@example.com",
+    "phone": "617-555-1006"
+  },
+  "b2c3d4e5-0007-4000-8000-200000000007": {
+    "customer_id": "b2c3d4e5-0007-4000-8000-200000000007",
+    "first_name": "Grace",
+    "last_name": "Lee",
+    "email": "grace.lee@example.com",
+    "phone": "503-555-1007"
+  }
+}
